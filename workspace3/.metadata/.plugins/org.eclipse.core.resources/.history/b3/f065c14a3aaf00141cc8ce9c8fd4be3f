@@ -1,0 +1,7 @@
+import java.util.ArrayList;
+
+import org.json.JSONArray;
+
+public class allclasses{
+	ArrayList<JSONArray> courses = new ArrayList<JSONArray>();
+}
