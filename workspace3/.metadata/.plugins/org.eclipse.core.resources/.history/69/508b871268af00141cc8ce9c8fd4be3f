@@ -1,0 +1,11 @@
+import java.util.LinkedList;
+
+
+public class room {
+	LinkedList<time> room_ll = new LinkedList<time>();
+	public room() {
+		// TODO Auto-generated constructor stub
+		this.room_ll = new LinkedList<time>();
+	}
+
+}

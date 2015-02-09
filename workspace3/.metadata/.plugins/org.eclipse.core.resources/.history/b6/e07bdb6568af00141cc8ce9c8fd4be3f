@@ -4,8 +4,8 @@ public class time {
 	
 	public time() {
 		// TODO Auto-generated constructor stub
-		/*this.minAfter8 = 0;
-		this.occupied = false;*/
+		this.minAfter8 = 0;
+		this.occupied = false;
 	}
 
 }
