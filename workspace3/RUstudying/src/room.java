@@ -1,11 +1,12 @@
 import java.util.LinkedList;
 
-//LL NEEDS TO HAVE 840 NODES TO BEGIN WITH
+
 public class room {
 	LinkedList<time> room_ll = new LinkedList<time>();
 	String campus;
 	String building;
 	String roomNumber;
+	LinkedList<String> freetimes = new LinkedList<String>();
 	
 	public room(String campus, String building, String roomNumber) {
 		// TODO Auto-generated constructor stub
